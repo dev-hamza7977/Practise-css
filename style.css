@@ -1,0 +1,106 @@
+body
+
+{
+    background-color: aqua;
+    /* background-image: url(images/black_glow.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; */
+    
+}
+
+h5{
+    color: chocolate;
+}
+
+.test{
+    color: darkblue;
+}
+
+#testing-para-1{
+    font-size: 30px;
+}
+
+.font-apply{
+    font-size: 25px;
+    font-weight: 450;
+    font-family: cursive;
+    font-style: italic;
+}
+
+.transformation-apply{
+    text-transform: uppercase;
+    text-transform: lowercase;
+    text-transform: capitalize;
+    text-transform: none;
+}
+
+.decoration-apply{
+    /* text-decoration: underline;
+    text-decoration: overline;
+    text-decoration: line-through; */
+    text-decoration: none;
+}
+
+.apply-to-atag{
+    text-decoration: none;
+    color: rgb(2, 2, 49);
+}
+
+.apply-to-all-ftd{
+    font-size: 30px;
+    font-weight: 200;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-transform: uppercase;
+    text-decoration: underline;
+    color: darkgoldenrod;
+    background-color: antiquewhite;
+}
+
+.play-with-letter{
+    letter-spacing: 50px;
+    line-height: 100px;
+    word-spacing: 100px;
+    text-align: center;
+}
+
+.change-g{
+    font-size: 50px;
+    color: rgb(220, 57, 20);
+    text-transform: uppercase;
+}
+
+ul{
+    list-style-type: decimal-leading-zero;
+    /* list-style-image: url(images/tick_image.png); */
+    list-style-position: inside;
+}
+
+div.b-color{
+    background-color: rgb(255, 0, 251);
+}
+
+div.first{
+    opacity: 0.1;
+}
+
+div.second{
+    opacity: 0.3;
+}
+
+div.third{
+    opacity: 0.6;
+}
+
+.border-prop{
+    border-style: solid;
+    border-width: 5px;
+    border-color: darkgreen;
+    border-radius: 30px;
+    /* border: solid red 6px; */
+
+}
+
+
+
