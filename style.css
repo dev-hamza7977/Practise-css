@@ -80,15 +80,12 @@ ul{
 div.b-color{
     background-color: rgb(255, 0, 251);
 }
-
 div.first{
     opacity: 0.1;
 }
-
 div.second{
     opacity: 0.3;
 }
-
 div.third{
     opacity: 0.6;
 }
@@ -99,8 +96,52 @@ div.third{
     border-color: darkgreen;
     border-radius: 30px;
     /* border: solid red 6px; */
+}
+.padding-margin{
+    border: 3px solid black;
+    /* margin: 50px; */
+    /* margin-top: 50px; */
+    /* margin-bottom: 60px; */
+    /* margin-left: 90px; */
+    /* margin-right: 80px; */
+    /* margin apply to all side l r t b */
+    /* margin: 10px 20px 30px 40px; */
+            /* t    r    b    l */
+    margin: 20px 50px;
+            /* tb   lr */
 
+    /* padding: 40px;
+    padding-top: 50px;  */
+    /* padding-bottom: 60px; */
+    /* padding-left: 90px; */
+    /* padding-right: 80px; */
+    /* padding apply to all side l r t b */
+    /* padding: 10px 20px 30px 40px; */
+            /* t    r    b    l */
+    padding: 20px 50px;
+            /* tb   lr */
 }
 
+.button{
+    background-color: blueviolet;
+    color: rgb(255, 72, 0);
+    font-size: 50px;
+    margin: 20px;
+    /* padding: 30px; */
+    size: 20px;
+}
 
+.form{
+    background-color: rgb(255, 255, 255);
+    margin: 50px;
+    padding: 10px;
+}
+
+.label{
+    color: red;
+}
+
+.name{
+    width: 1000px;
+}
 
